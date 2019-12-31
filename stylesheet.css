@@ -129,3 +129,9 @@ name {
 span.highlight {
   background-color: #ffffd0;
 }
+
+.container{
+  margin:0 auto;
+  width: 900px;
+  max-width: none !important;
+}
