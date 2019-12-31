@@ -132,6 +132,7 @@ span.highlight {
 
 body {
   min-width: 900px;
+  -webkit-text-size-adjust: none;
 }
 
 .container{
