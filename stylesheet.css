@@ -130,6 +130,10 @@ span.highlight {
   background-color: #ffffd0;
 }
 
+body {
+  min-width: 900px;
+}
+
 .container{
   margin:0 auto;
   width: 900px;
